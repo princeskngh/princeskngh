@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @princeskngh
-- 👀 I’m interested in Engineering, Science and Computing
-- 🌱 I’m currently learning Electrical Engineering & Nano-Technology
-- 💞️ I’m looking to collaborate on Nano-Science, and novel microprocessors
-- 📫 How to reach me: princeskngh@gmail.com
+, I’m Prince Singh (@princeskngh)
+*🚀 Aspiring AI & Robotics Engineer | Data Scientist | Mechanical Engineer
 
-<!---
-princeskngh/princeskngh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*🎓 Currently pursuing a Master’s in Mechanical Engineering at ASU with a focus on autonomous systems and machine learning.
+*🧠 Passionate about integrating AI and Machine Learning into robotics and autonomous vehicles for real-world applications.
+*💡 Skilled in Python, C++, Data Analysis, Deep Learning, and simulation tools like Unreal Engine and ANSYS.
+*🔍 Looking to collaborate on projects involving LiDAR integration, 3D data analysis, and autonomous systems.
+*📬 Reach me at: princeskngh@gmail.com
